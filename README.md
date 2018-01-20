@@ -1,4 +1,4 @@
-<h1 align="center">Image Hover Effects</h1><br>
+<h1 align="center">WIP: Image Hover Effects</h1><br>
 <p align="center">Collection of ideas for image hover effects made with CSS and AngularJS.<br>
 Live preview: <a href="https://themalni.github.io/hover-effects/index.html">Image Hover Effects</a></p><br>
 
